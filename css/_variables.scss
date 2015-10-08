@@ -1,6 +1,6 @@
-$fontPath:                           "fonts";
-$fontName:                           "flexslider-icon";
-$font-file-name:                      "flexslider-icon";
+$font-path:                           "fonts" !default;
+$font-name:                           "flexslider-icon" !default;
+$font-file-name:                      "flexslider-icon" !default;
 
 $default-duration:                    1s;
 $default-easing:                      ease;
